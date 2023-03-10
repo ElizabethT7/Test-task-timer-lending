@@ -63,5 +63,3 @@ function showTime(seconds) {
     }
   }, 1000);
 }
-
-
